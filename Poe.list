@@ -1,3 +1,7 @@
+
+HOST, skan.singular.net, reject
+HOST, app-analytics-services.com, reject
+
 HOST-SUFFIX, quora.com, Poe
 
 
